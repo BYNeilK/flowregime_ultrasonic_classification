@@ -7,7 +7,7 @@ This project provides the data, model, and solution of our flow regime classific
 
 The source data can be found from:<br />
     (1) The Cranfield Online Research Data (CORD) research repository: https://doi.org/10.17862/cranfield.rd.11369379.v1 <br />
-or, if the CORD link cannot work, try:
+or, if the CORD link cannot work, try: <br />
     (2) The google drive link: https://drive.google.com/drive/folders/1alXvuIzlaRutP5m01LV_NcHPCOeiBuLl?usp=sharing <br />
   
 The detailed description of the dataset can be found from the link: https://cord.cranfield.ac.uk/articles/dataset/Two-phase_Gas-Liquid_Flow_Regimes_Identification_in_an_S-shape_Pipeline-Riser_Using_Doppler_Ultrasonic_Sensor/11369379
