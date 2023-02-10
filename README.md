@@ -1,4 +1,4 @@
-# fr_us_classification
+# flow regime ultrasonic signal classification
 Project: The ultrasonic Doppler signals for the two-phase flow regime identification <br />
 Author: Boyu Kuang, neil.kuang@cranfield.ac.uk <br />
 Date: 10th February 2023
