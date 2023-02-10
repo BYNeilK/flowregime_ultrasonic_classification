@@ -1,4 +1,4 @@
-# flow regime ultrasonic signal classification
+# Flow Regime Classification using Ultrasonic Doppler Sensor in an S-shape riser system
 Project: The ultrasonic Doppler signals for the two-phase flow regime identification <br />
 Author: Boyu Kuang, neil.kuang@cranfield.ac.uk <br />
 Date: 10th February 2023
